@@ -6,6 +6,7 @@ function gaInit() {
     }
     gtag('js', new Date());
     gtag('config', 'G-JZ70P6VEZZ');
+    console.log('ga Init called')
 }
 
 
